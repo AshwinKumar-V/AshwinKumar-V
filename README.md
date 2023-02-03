@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Kumar V</h1>
-<h3 align="center">Excited to build cool stuff with 0s and 1s!</h3>
+<h3 align="center">Excited to learn and build cool stuff!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinkumar-v&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinkumar-v" /> </p>
 
